@@ -29,7 +29,7 @@ This project is built with a modern, robust, and scalable tech stack:
 This tool was created by **Nico Roddz**.
 
 - **LinkedIn:** [linkedin.com/in/nicoroddz](https://www.linkedin.com/in/nicoroddz/)
-- **Website:** For more resources on AI Governance, visit [AI Governance 101](https://www.aigovernance101.com).
+- **Website:** For more resources on AI Governance, visit [GobernarIA](https://www.gobernaria.com).
 
 ## License
 
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 
 **MIT License**
 
-Copyright (c) 2024 Nico Roddz
+Copyright (c) 2025 Nico Roddz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
